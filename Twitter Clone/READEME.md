@@ -2,6 +2,6 @@
 __Run the following command to start the project:__
 
 ```
-npm i
+npm install
 ```
 start your live-privue
